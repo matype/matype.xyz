@@ -1,0 +1,18 @@
+.md-content p {
+  margin-top: 2em;
+}
+
+.md-content a {
+  color: rgb(29 78 216);
+}
+
+.md-content a:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .md-content a {
+    color: rgb(163 230 53);
+  }
+}
