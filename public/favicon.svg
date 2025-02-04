@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 837.23 612.77"><path d="m837.23,612.77L647.87,0h-189.36v612.77h90.7l-9.47-79.8h132.17l-15.15,79.8h180.46Zm-297.48-210.57v-22.48h132.17v22.48h-132.17Z"/><polygon points="0 612.77 81.14 612.77 81.14 377.83 100.08 377.83 100.08 612.77 181.2 612.77 181.2 377.83 200.13 377.83 200.13 612.77 433.35 612.77 433.35 0 0 0 0 612.77"/></svg>
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="800" rx="400" fill="white"/>
+<g clip-path="url(#clip0_10_4)">
+<path d="M678 585L563.782 215H449.564V585H504.272L498.56 536.815H578.282L569.144 585H677.994H678ZM498.566 457.855V444.281H578.289V457.855H498.566Z" fill="black"/>
+<path d="M173 585H221.942V443.14H233.366V585H282.296V443.14H293.714V585H434.388V215H173V585Z" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_10_4">
+<rect width="505" height="370" fill="white" transform="translate(173 215)"/>
+</clipPath>
+</defs>
+</svg>
